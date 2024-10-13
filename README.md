@@ -24,6 +24,10 @@ For more details, refer to the documentation: [https://github.com/PassByYou888/z
 
 # Update Log
 
+### 2024-10-13
+
+- Pause Methods Added.
+- Minor Bugs Fixed
 ### 2021-09-22
 
 - Updated the base library. If you encounter compilation issues, please let me know.
